@@ -49,11 +49,141 @@ body{
     letter-spacing: 0%;
     text-align: center;
 }
-/* 65%-section-comtainer start hear  */
-.secend-section-comtainer{
+/* secend-section-comtainer start hear  */
+.secend-section-container{
     width: 802.9px;
     height: 806px;
-    border: 2px solid red;
     margin: 0 auto;
     margin-top: 120px;
 }
+.secend-section-content h1{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.secend-section-content h6{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 48px;
+}
+.secend-section-content h3{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;  
+    margin-top: 16px;       
+}
+.secend-section-content img{
+    width: 802.9px;
+    height: 500px;
+    left: 399px;
+    right: -399px;
+    top: 165.28%;
+    bottom: -142.09%;
+    margin-top: 48px;
+
+}
+ /* secend section start heare  */
+ .thard-section-containar{
+    width: 1320px;
+    height: 600px;
+    background-image: url('../images/Vectorrr.png');
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+    border-radius: 16px;
+    margin: 0 auto;
+    margin-top: 120px;
+    justify-content: space-between;
+    color: #fff;
+    display: flex;
+ }
+ .leftsid-content{
+    width: 60%;
+    height: 600px;
+ }
+ .rightsid-content{
+    width: 40%;
+    height: 600px;
+ }
+ .leftsid-content h2{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 11%;
+    text-align: left;
+    margin: 126px 87px 26px 126px;
+ }
+ .leftsid-content p{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 20px;
+    text-align: left;
+    margin: 0px 28px 48px 126px;
+ }
+ .leftsid-content a{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+    margin: 0px 0px 0px 158px;
+    text-decoration: none;
+ }
+ .rightsid-content .rightsid-img{
+  text-align: center;
+  margin: 68px 108px 67px 39px;
+ }
+ /* forth-section-conteinar  start hear */
+ .forth-section-conteinar{
+    /* border: 2px solid red; */
+    width: 1320px;
+    height: 482px;
+    margin: 0 auto;
+    margin-top: 220px;
+
+ }
+ .forth-section-content h3{
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 10px;
+    
+ }
+ .forth-section-content .new-park{
+    margin-top: 100px;
+ }
+ .forth-section-content span{
+    color: red;
+ }
+ /* button style */
+ .forth-section-conteinar .join-btn{
+    text-align: center;
+ }
+ .forth-section-conteinar .btn{
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+    margin-top: 48px;
+    padding: 16px 32px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+ }
