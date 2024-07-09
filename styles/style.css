@@ -5,7 +5,7 @@
     margin: 0px;
 }
 body{
-    font-family: font-family: "Merriweather", serif;;
+    font-family: font-family: "Merriweather", serif;
 }
 /* header section styles hear  */
 .bannar-containar{
@@ -187,3 +187,74 @@ body{
     cursor: pointer;
     font-size: 20px;
  }
+ /* fifth section start hear */
+ .fifth-section-container{
+    /* border: 2px solid red; */
+    width: 1320px;
+    height: 463px;
+    margin: 0px auto;
+    display: flex;
+ }
+ .sub-section-one{
+    width: 463px;
+    height: 463px;
+ }
+ .sub-section-one .title{
+    color: rgb(255, 0, 0);
+    font-size: 24px;
+    margin-top: 104px;
+ }
+ .discription{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 22px;
+ }
+ .sub-section-one h1{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-transform: capitalize;
+ }
+ .sub-section-tow{
+    width: 463px;
+    height: 463px;
+    text-align: center;
+    margin-left: 70px;
+    
+ }
+ .sub-section-tow .Ellipse-img{
+    border: 15px solid red;
+    margin-top: 50px;
+    border-radius: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+ }
+ .sub-section-three{
+    margin-left: 118px;
+    margin-top: 112px;
+ }
+.sub-section-three .title-24{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.sub-section-three .discription{
+    font-size: 20px;
+    font-weight: 400px;
+}
+.sub-section-three img{
+    margin-top: 46px;
+}
